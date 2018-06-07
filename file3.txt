@@ -1,1 +1,2 @@
 I am writing in the file3.txt for the first time. #task4
+I am again updating the file3.txt. #task6
